@@ -39,6 +39,3 @@ BPM - Registro Plan Anual de Adquisiciones y Etapa Inicial del Proceso de Gesti√
 ## Producci√≥n
 ## Tener en cuenta que la solucion en produccion se va a encontrar desplegada en la infraestructura nube del proveedor
 
-
-
-
