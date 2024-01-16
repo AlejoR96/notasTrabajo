@@ -39,3 +39,14 @@ BPM - Registro Plan Anual de Adquisiciones y Etapa Inicial del Proceso de Gesti√
 ## Producci√≥n
 ## Tener en cuenta que la solucion en produccion se va a encontrar desplegada en la infraestructura nube del proveedor
 
+# Intrasuite
+
+## Ejecutar una presentacion en donde se detalle los errores econtrados 
+## Razones en donde se evidencia que solicitudes por correo no son respondidas ni ejecutadas en su respectivo tiempo
+## No queda claro quien es el responsable de la actividad ni los tiempos que tomo para las respuesta
+## No queda la traza de manera publica ya que los correos solo es informado quien es copiado y ademas no esta en la traza GSI o cualquier interesado de nivel jerarquico superior
+[comment]: <Colocar img >
+![alt text](intrasuite.png)
+
+## Revisar ultima Correo Misena 
+
