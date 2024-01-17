@@ -50,3 +50,7 @@ BPM - Registro Plan Anual de Adquisiciones y Etapa Inicial del Proceso de Gesti√
 
 ## Revisar ultima Correo Misena 
 
+# Tecnoparque 
+## Validar informacion de contacto 
+## Activar nuevamente agenda PAP
+
