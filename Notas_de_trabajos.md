@@ -54,3 +54,7 @@ BPM - Registro Plan Anual de Adquisiciones y Etapa Inicial del Proceso de Gesti√
 ## Validar informacion de contacto 
 ## Activar nuevamente agenda PAP
 
+## ETL 
+## Realizar manual de cargue de datos desde excel a SQL 
+## Validar cotejamientos en MySQL para las tildes 
+
