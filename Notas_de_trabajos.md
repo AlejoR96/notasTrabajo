@@ -58,3 +58,7 @@ BPM - Registro Plan Anual de Adquisiciones y Etapa Inicial del Proceso de Gesti√
 ## Realizar manual de cargue de datos desde excel a SQL 
 ## Validar cotejamientos en MySQL para las tildes 
 
+# Portal Web institucional 
+## crear WO para informar actualizaci√≥n de LF y LT
+## enviar correo a Hector solicitando informacion de proveedor de soporte y la licencia 
+
