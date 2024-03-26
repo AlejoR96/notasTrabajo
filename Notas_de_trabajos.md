@@ -61,3 +61,8 @@ BPM - Registro Plan Anual de Adquisiciones y Etapa Inicial del Proceso de Gesti�
 # Portal Web institucional 
 ## crear WO para informar actualización de LF y LT
 ## enviar correo a Hector solicitando informacion de proveedor de soporte y la licencia 
+
+# AGENCIA PÚBLICA DE EMPLEO (PORTAL)
+## Agregar en la arquitectura los servidores wiki 
+##  vspdbdwkape01 vspdapwkape01
+
