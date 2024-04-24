@@ -62,7 +62,19 @@ BPM - Registro Plan Anual de Adquisiciones y Etapa Inicial del Proceso de Gesti�
 ## crear WO para informar actualización de LF y LT
 ## enviar correo a Hector solicitando informacion de proveedor de soporte y la licencia 
 
+# 26 de marzo 2024
 # AGENCIA PÚBLICA DE EMPLEO (PORTAL)
 ## Agregar en la arquitectura los servidores wiki 
 ##  vspdbdwkape01 vspdapwkape01
+## -----------------
+## KACTUS | APROBADO
+## SISTEMA DE INFORMACIÓN DE BIBLIOTECAS - ALEPH500 | APROBADO
+## SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA) | 
+## GESTIÓN DOCUMENTAL ONBASE
+## SERVICIO MÉDICO ASISTENCIAL (SMA)
+
+# 22 de abril 
+## Validar formatos de PAP por lo que estan vigentes consultar con calidad para proponer plan de trabajo 
+## Formato de script de pruebas funcionales 
+
 
