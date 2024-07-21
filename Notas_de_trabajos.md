@@ -81,6 +81,61 @@ BPM - Registro Plan Anual de Adquisiciones y Etapa Inicial del Proceso de Gesti�
 # DSNFT 
 ## TOMCAT 8.5 ultima version 
 ## java 1.8.0_261
+<<<<<<< HEAD
+=======
+
+## Ejecutar actividades para ampliacion de memoria el dia 24 de Mayo de 2024 
+
+## Memoria actual 31 GB objetivo de aumento es tener un total 43 GB aumento 12 GB por nodo.
+
+## ajustar arquitectura de Registradura ANI de acuerdo a las integraciones 
+
+
+# 17 de junio 
+
+## Revisar Sede electronica componentes tramites si tiene integraciones o interoperabilidades con otras aplicaciones y enviar reporte a ing Yohan 
+
+# 21 De Junio 
+
+# * Se debe validar de validar los chatbot de automation anywhere control room actualizaron y  maneja las demas/.
+
+# * tener presente las app de en PAP
+
+# * Raas solo se activa por demanda de acuerdo a solicitud de LT 
+
+# * Se entrega documentacion de los servicios o app montadas en AZURE en el proceso de migracion
+
+# * Seguimiento de PAP Sistemas de vigilancia (Orientar PAP).
+
+# * Aplicaciones migradas 70 y operativas 54
+
+# * Nslookup a las aplicaciones migradas.
+
+
+# 26 DE JUNIO 2024 
+
+# Cambios para esta semana 
+
+##  PLATAFORMA DE SALUD DIGITAL CSS --->  APP MIGRADA Y ENTREGADA AL NUEVO PROVEEDOR NO APLICA A TELEFONICA 
+##  SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC) ---> APLICA CAMBIO A TELEFONICA(APLICACIONES), PREPARAR MEDIOS VA POR ANSIBLE 
+## SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA) ---> APLICA CAMBIO A TELEFONICA(APLICACIONES), PREPARAR MEDIOS VA POR ANSIBLE
+ 
+
+
+desplegar el archivo anexo en /var/www/html/sirec/application/controllers/aplicacion_pago_cnm.php 
+
+desplegar el archivo anexo en /var/www/html/sirec/application/controllers/multasministerio.php 
+
+desplegar el archivo anexo en /var/www/html/sirec/application/controllers/reporteador.php
+
+desplegar el archivo anexo en /var/www/html/sirec/application/models/aplicacion_pago_cnm_model.php
+
+desplegar el archivo anexo en /var/www/html/sirec/application/models/reporteador_model.php
+
+desplegar el archivo anexo en /var/www/html/sirec/application/views/reporteador/certificado_no_misional.php
+
+en los servidores  172.29.19.105, 172.29.19.106, 172.29.19.108
+>>>>>>> 848c1dc28274218720ad0699fb34aa21b9532665
 
 ## Ejecutar actividades para ampliacion de memoria el dia 24 de Mayo de 2024 
 
