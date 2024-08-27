@@ -201,3 +201,72 @@ en los servidores  172.29.19.105, 172.29.19.106, 172.29.19.108
 ## 172.29.19.105, 
 ## 172.29.19.106, 
 ## 172.29.19.108
+
+
+CITAS ABUELA 
+
+VSGSEFRONAAPP01-BCK
+VSGSEFRONAAPP02-BCK
+VSGSEPENTHAAPP02-BCK
+VSGSETOMAPP02-BCK
+VSPDAPOSOA01-BCK
+VSGSEIISAPP02-BCK
+
+VSPDBDOSOA01-BCK
+Sc01zdbadm21-BCK
+Sc01zdbadm09-BCK
+
+Enviar correo a linux para que validen los servidores si estan apagado 
+Copiar a Paola Burgos, OVM, Claudia. 
+Validar segmento de red 
+
+
+Ejecutar una WO  indicando que los servidores estan apagado 
+
+
+
+KActus 
+172.29.19.229:443 RDP ----> Validar que IP de balanceo es esta
+
+
+cd /appserver/oracle/Oracle/Middleware/Oracle_Home/user_projects/domains/vspreapconv01/bin
+. ./setDomainEnv.sh
+java weblogic.WLST
+from weblogic.security.internal import BootProperties
+BootProperties.load("/appserver/oracle/Oracle/Middleware/Oracle_Home/user_projects/domains/vspreapconv01/servers/AdminServer/security/boot.properties", false)
+prop = BootProperties.getBootProperties()
+print "username: " + prop.getOneClient()
+print "password: " + prop.getTwoClient()
+tiene menú contextual
+
+
+
+Constructora: Prodesa
+Nombre del proyecto: Alonda
+Fecha de entrega del apto : 
+Monto de crédito : 
+Precio del apartamento:
+Torre:    interior :       apto:
+Ya tiene vivienda o aparece en escrituras?
+Estado civil:
+Tiene hijos? :
+Profesión :
+Dirección de residencia:
+Teléfono fijo:
+Teléfono celular:
+Correo electronico:
+Referencia familiar (nombre completo y numero de celular) :
+Referencia personal (nombre completo y numero de teléfono celular) :
+Plazo el crédito:
+PARA EMPLEADO 
+Nombre de la empresa:
+NIT de la empresa:
+Dirección de la empresa:
+Teléfono de la empresa:
+Cargo:
+Tipo de contrato(termino):
+Salario:
+Fecha de ingreso:
+SI ES INDEPENDIENTE
+Ingreso o salario :
+Actividad o cargo:
