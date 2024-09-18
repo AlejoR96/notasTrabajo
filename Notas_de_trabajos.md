@@ -270,3 +270,39 @@ Fecha de ingreso:
 SI ES INDEPENDIENTE
 Ingreso o salario :
 Actividad o cargo:
+
+
+
+/resourcedata/ADMIN/SOFIA/Scripts/Deploy_sofia_Nodo1.sh /resourcedata/ADMIN/SOFIA/deploys/30082024/jboss-as-oferta-gwt-ear.ear
+
+
+/resourcedata/ADMIN/SOFIA/Scripts/Deploy_sofia_Nodo1.sh /resourcedata/ADMIN/SOFIA/backups/2024_08_30_20_00/sofia-1.1.1.ear
+
+/resourcedata/ADMIN/OFERTA/Scripts/Deploy_oferta_Nodo1.sh /resourcedata/ADMIN/OFERTA/deploys/30082024/jboss-as-oferta-gwt-ear.ear
+
+
+Credenciales - Laboratorio weblogic
+user>weblogic
+pass>123456789#
+
+./startWebLogic.sh -Dweblogic.management.username=weblogic -Dweblogic.management.password=123456789# -Dweblogic.system.StoreBootIdentity=true -Dweblogic.configuration.schemaValidationEnable=false
+
+
+## Plantillas 
+
+Procedemos a realizar la solicitud expresada sobre el ambiente QA en la aplicación SOFIA PLUS  y compartiremos los resultados.
+
+Buenas tardes Compañeros @Mesa de Servicio por favor su apoyo en crear el ticket en la herramenta de gestión GLPI para proceder con la solicitud. 
+ 
+Muchas gracias 
+
+
+## Comandos APACHE 
+
+httpd.exe -t  ----> revisar la Sintaxis de SSL 
+httpd.exe -k restart  -----> Reiniciar el apache por CMD
+httpd.exe -k install -n "Apache2.4" -----> Instalar apache por CMD 
+httpd.exe -k start   -n "Apache2.4" -----> Iniciar el apache 
+
+
+/resourcedata/ADMIN/SOFIA/Scripts/Deploy_sofia_Nodo1.sh  /resourcedata/ADMIN/SOFIA/deploys/16092024/sofia-1.1.1.ear
