@@ -270,3 +270,17 @@ httpd.exe -k start   -n "Apache2.4" -----> Iniciar el apache
 
 
 /resourcedata/ADMIN/SOFIA/Scripts/Deploy_sofia_Nodo1.sh  /resourcedata/ADMIN/SOFIA/deploys/16092024/sofia-1.1.1.ear
+
+
+## prueba de relay | correo 
+
+telnet relay.sena.edu.co 25
+ehlo
+mail from: ape@sena.edu.co
+rcpt to: jaira.rivera@sticcoltel.onmicrosoft.com
+data
+subject: prueba de correo 07.10 am
+esto es una prueba
+.
+enter
+
