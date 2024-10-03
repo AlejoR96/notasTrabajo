@@ -284,3 +284,40 @@ esto es una prueba
 .
 enter
 
+
+# Aplicaciones 
+# Rues 
+## preproduccion
+* sc01zfadmqa01	172.29.10.130 ----> S.O Oracle Solaris 11.4 rol APP | BD
+* sc01zfdbqa01	172.29.10.224 ----> S.O Oracle Solaris 11.4 rol BD
+* sc01zfmdlqa01	172.29.10.160 ----> S.O Oracle Solaris 11.4 rol APP | BD
+* sc01zfmdlqa02	172.29.10.213 ----> S.O Oracle Solaris 11.4 rol APP | BD
+* sc01zfdbqa02	172.29.10.228 ----> S.O Oracle Solaris 11.4 rol  BD
+## produccion 
+* VSPDAPXROAD01	172.30.163.65 ----> S.O Red Hat Enterprise Linux 7 Rol APP
+# Seguimiento a proyectos   y presupuestos
+## Desarrollo 
+* sc01zdbadm10	172.29.10.59 ----> S.O Oracle Solaris 11.4 Rol BD
+* sc01zdbadm22	172.29.10.179 ----> S.O Oracle Solaris 11.4 Rol BD 
+## preproduccion
+* VSPPAPDASHB01	172.30.164.28 ----> S.O Windows Server 2019  Standard Rol APP
+* VSPPAPSDCACE01	172.30.164.143 ---->S.O  Red Hat Enterprise Linux 8 Rol APP
+* VSPPAPSDCACE02	172.30.164.144 ----> S.O Red Hat Enterprise Linux 8 Rol APP
+* sc01zdbadm10	172.29.10.59 ----> S.O  Oracle Solaris 11.4 Rol BD
+* sc01zdbadm22	172.29.10.179 ----> S.O Oracle Solaris 11.4 ROL BD
+
+## Produccion
+* VSPDAPDASHB01	  172.30.163.63 ---->  S.O Windows Server 2019  Standard Rol APP
+* VSPDAPSDCACE01	172.30.163.171 ----> S.O Red Hat Enterprise Linux 8 Rol APP
+* VSPDAPSDCACE02	172.30.163.172 ----> S.O Red Hat Enterprise Linux 8 Rol APP 
+* sc01zdbadm10	172.29.10.59 ----> S.O Oracle Solaris 11.4 Rol BD
+* sc01zdbadm22	172.29.10.179 ----> S.O Oracle Solaris 11.4 Rol BD
+
+
+# Deploy en sofia QA
+
+/resourcedata/ADMIN/SOFIA/Scripts/Deploy_sofia_Nodo1.sh //resourcedata/ADMIN/SOFIA/deploys/25092024/sofia-1.1.1.ear
+
+# Deploy bk QA
+/resourcedata/ADMIN/SOFIA/Scripts/Deploy_sofia_Paso0_tomaBK.sh /resourcedata/ADMIN/SOFIA/backups/2024_09_16_17_54 
+
