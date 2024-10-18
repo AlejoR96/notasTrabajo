@@ -321,3 +321,13 @@ enter
 # Deploy bk QA
 /resourcedata/ADMIN/SOFIA/Scripts/Deploy_sofia_Paso0_tomaBK.sh /resourcedata/ADMIN/SOFIA/backups/2024_09_16_17_54 
 
+## INGRESO DE CREDENCIALES A SERVIDORES
+# USER ----> aplicacion
+# PASS ----> Colombia2020+
+
+
+# ONBASE 
+## Revisar en TS los servidores de aplicacion 160 y 161, 168 
+## Credenciales de pruebas
+# User -----> prueba_login ----> 987654321
+
