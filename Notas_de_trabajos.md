@@ -331,3 +331,16 @@ enter
 ## Credenciales de pruebas
 # User -----> prueba_login ----> 987654321
 
+
+
+# 1 de Junio de 2025 - S.O Cent OS  -> Weblogic 
+# Curso Weblogic - UDEMY
+# usuario sistema operativo
+## User: root 
+## Password: alejo12345
+
+# Usuario weblogic 
+## User:
+## Password: 
+
+
